@@ -5,7 +5,7 @@ Sistema de gerenciamento de faturas com entidades para clientes, produtos e fatu
 Desenvolvido em .NET com arquitetura em camadas.
 Utilizando migrations, swagger e SQL Server.
 
-###🧩 Principais Entidades
+### 🧩 Principais Entidades
 
 Customer: Clientes do sistema
 
@@ -21,6 +21,8 @@ Clone o repositório
 1.
 git clone <url-do-repositorio>
 cd BillingSystem
+
+
 2.Build no projeto
  build
 
